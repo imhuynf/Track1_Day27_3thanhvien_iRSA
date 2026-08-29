@@ -65,4 +65,4 @@ Cùng cấu trúc: Kết luận → Lý do → Evidence → Small ask. Team gi�
 - [x] **2 Pitch & RACI** — conclusion + evidence + small ask; 1 phản biện; mỗi việc 1 A
 - [x] **3 AI Team** — Embedded có lý do; Core Roles; gap + Hire/Outsource/Partner
 - [x] **4 Health** — 4 khía cạnh; vấn đề ưu tiên; 1 competency; ≤ 3 action có owner/deadline/dấu hiệu
-- [x] **5 Nộp** — README + 01 PDF bài làm trong folder này
+- [x] **5 Nộp** — README + 01 PDF Day27_AI-Team-Lab_3thanhvien
